@@ -49,7 +49,10 @@
      <Compile Include="Assets\Scripts\AnimatorTest.cs" />
      <Compile Include="Assets\Scripts\BottomArea.cs" />
      <Compile Include="Assets\Scripts\Brick.cs" />
+     <Compile Include="Assets\Scripts\ExitApplication.cs" />
+     <Compile Include="Assets\Scripts\GUIManager.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
+     <Compile Include="Assets\Scripts\HideStartMenu.cs" />
      <Compile Include="Assets\Scripts\InstantiatePaddle.cs" />
      <Compile Include="Assets\Scripts\PaddleControl.cs" />
      <Compile Include="Assets\Scripts\PaddleControlPhysics.cs" />

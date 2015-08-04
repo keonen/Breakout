@@ -1,11 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ExitApplication.cs">
     <Files>
-      <File FileName="Assets\Scripts\SpawnBricks.cs" Line="20" Column="73" />
-      <File FileName="Assets\Scripts\PalloLiike.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\BottomArea.cs" Line="6" Column="34" />
-      <File FileName="Assets\Scripts\GameManager.cs" Line="19" Column="4" />
+      <File FileName="Assets\Scripts\AnimatorTest.cs" Line="6" Column="20" />
+      <File FileName="Assets\Scripts\Brick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HideStartMenu.cs" Line="13" Column="20" />
+      <File FileName="Assets\Scripts\ExitApplication.cs" Line="13" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
