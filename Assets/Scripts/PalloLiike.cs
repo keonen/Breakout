@@ -16,6 +16,8 @@ public class PalloLiike : MonoBehaviour {
 		public Vector2 startVelocity;
 		public Vector2 currentVelocity;
 		public bool unhandledCollision = false;
+		public GameObject menu;
+		public GameObject helpCanvasMenu;
 
 		public float distanceFromPaddle = 0.1f;
 		public bool startSituation = true;
@@ -56,6 +58,9 @@ public class PalloLiike : MonoBehaviour {
 		
 		if (startSituation && Input.GetKeyDown(KeyCode.Space) && scorePoints == 0)
 		{
+
+			menu.SetActive(false);
+			helpCanvasMenu.SetActive(false);
 			// rigidbody.AddForce(startForce, ForceMode2D.Impulse);
 			// rigidbody.velocity = startVelocity;
 			startSituation = false;
